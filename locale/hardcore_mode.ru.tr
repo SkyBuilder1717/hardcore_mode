@@ -1,0 +1,12 @@
+# textdomain: hardcore_mode
+
+### ContentDB
+Hardcore mode=Режим хардкора
+Adds a hardcore mode.=Добавляет режим хардкора.
+
+### Messages
+@1 died in hardcore mode!=@1 умер в режиме хардкора!
+
+### Ban
+@n@n@nYou died in hardcore mode!@n(Reason: @1)@n@nYou can only delete this world.=@n@n@nВы умерли в хардкорном режиме!@n(Причина: @1)@n@nВы можете только удалить этот мир.
+@n@n@nYou died in hardcore mode!@n(Reason: @1)@n@nR.I.P. you=@n@n@nВы умерли в хардкорном режиме!@n(Причина: @1)@n@nПокойся с миром, ты
